@@ -1,0 +1,32 @@
+*{
+    height: 100%;
+}
+.padre{
+    
+}
+.hijo1{
+    background-color: red;
+    color: white;
+    height: 25%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.hijo2{
+    background-color: aquamarine;  
+    height: 25%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.hijo3{
+    background-color: black;
+    color: white;
+    height: 25%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.hijo4{
+    background-color: yellow;
+    height: 25%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
